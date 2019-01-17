@@ -410,7 +410,7 @@ Metric Code Size 3216</description>
 <class number="0" name="default" width="0" drill="0">
 </class>
 </classes>
-<designrules name="prototype *">
+<designrules name="prototype">
 <description language="de">&lt;b&gt;EAGLE Design Rules&lt;/b&gt;
 &lt;p&gt;
 Die Standard-Design-Rules sind so gewählt, dass sie für 
