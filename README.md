@@ -1,7 +1,7 @@
 
-![board image](https://github.com/rsergiu2003/esp-01-4x-sensors-ports/raw/master/board.png)
+![board image](https://github.com/rsergiu2003/esp-01-4x-mosfet/blob/master/board.png)
 
-![sketch image](https://github.com/rsergiu2003/esp-01-4x-sensors-ports/raw/master/sketch.png)
+![sketch image](https://github.com/rsergiu2003/esp-01-4x-mosfet/blob/master/schematic.png)
 
 # esp-01-4x-mosfet
 esp-01 extension board, with 4 mosfet transistors independently controlled, also has 1 power led and 4 status leds, and 3.3v stabilizations (can be powered up to 30V)
