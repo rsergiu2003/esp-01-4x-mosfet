@@ -3800,20 +3800,20 @@ Standard adjustable voltage regulator but in SMD form. Spark Fun Electronics SKU
 <part name="GND4" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="GND" device=""/>
 <part name="GND2" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="GND" device=""/>
 <part name="D1" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="LED-BLUE" device="0805" package3d_urn="urn:adsk.eagle:package:378040/2" value="POWER LED"/>
-<part name="R1" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R2" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R3" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R4" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R5" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="C1" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="C-US" device="C1206K" package3d_urn="urn:adsk.eagle:package:878060/2"/>
+<part name="R1" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="1k"/>
+<part name="R2" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="10k"/>
+<part name="R3" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="10k"/>
+<part name="R4" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="10k"/>
+<part name="R5" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="10k"/>
+<part name="C1" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="C-US" device="C1206K" package3d_urn="urn:adsk.eagle:package:878060/2" value="100n"/>
 <part name="LED1" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="LED-BLUE" device="0805" package3d_urn="urn:adsk.eagle:package:378040/2" value="POWER LED"/>
 <part name="LED2" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="LED-BLUE" device="0805" package3d_urn="urn:adsk.eagle:package:378040/2" value="POWER LED"/>
 <part name="LED3" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="LED-BLUE" device="0805" package3d_urn="urn:adsk.eagle:package:378040/2" value="POWER LED"/>
 <part name="LED4" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="LED-BLUE" device="0805" package3d_urn="urn:adsk.eagle:package:378040/2" value="POWER LED"/>
-<part name="R6" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R7" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R8" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
-<part name="R9" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value=" "/>
+<part name="R6" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="1k"/>
+<part name="R7" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="1k"/>
+<part name="R8" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="1k"/>
+<part name="R9" library="simple-shiled" library_urn="urn:adsk.eagle:library:80055" deviceset="RESISTOR" device="0805" package3d_urn="urn:adsk.eagle:package:103226/5" value="1k"/>
 </parts>
 <sheets>
 <sheet>
